@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jindrichbartek
-- 👀 I’m interested in smart contract development on up and coming blockchain platforms or high-performance web applications.
-- 📫 How to reach me [Linked](https://www.linkedin.com/in/jindrichbartek/)
+- 👀 I’m interested in development of high-performance web applications or engineer management of teams developing great products!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jindrichbartek/)
+- My last repo I started to work on: [chatgpt-client-2](https://github.com/jindrichbartek/chatgpt-client-2) (WIP)
 
 <!---
 jindrichbartek/jindrichbartek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
